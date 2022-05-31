@@ -68,7 +68,3 @@
   top: 64px;
   animation: rotation linear 20s infinite;
 }
-
-a:hover {
-  opacity: .5;
-}
