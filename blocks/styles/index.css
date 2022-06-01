@@ -1,0 +1,23 @@
+@import url(../rotation/rotation.css);
+@import url(../header/header.css);
+@import url(../content/description/description.css);
+@import url(../content/techniques/techniques.css);
+@import url(../content/video/video.css);
+@import url(../content/oakley/oakley.css);
+@import url(../content/feynman/feynman.css);
+@import url(../content/digits/digits.css);
+@import url(../content/khan/khan.css);
+@import url(../content/kaufman/kaufman.css);
+@import url(../content/resources/resources.css);
+@import url(../footer/footer.css);
+@import url(../logo/logo.css);
+@import url(../../vendor/normalize.css);
+@import url(../page/page.css);
+
+@font-face {
+  src: url(../../fonts/Inter/Inter-Regular.woff) format("woff"),
+    url(../../fonts/Inter/Inter-Regular.woff2) format("woff2"),
+    url(../../fonts/Inter/Inter-Bold.woff) format("woff"),
+    url(../../fonts/Inter/Inter-Bold.woff2) format("woff2");
+  font-family: "Inter";
+}

@@ -1,0 +1,10 @@
+@import url(./section-title/section-title_theme_dark.css);
+@import url(./section-subtitle/section-subtitle_theme_dark.css);
+@import url(./__triangle/kaufman__triangle.css);
+@import url(./table/table.css);
+
+.kaufman {
+  background-color: #1f1f1f;
+  overflow: hidden;
+  position: relative;
+}
