@@ -1,0 +1,14 @@
+@font-face {
+  src: url(../fonts/Inter/Inter-Regular.woff) format("woff"),
+    url(../fonts/Inter/Inter-Regular.woff2) format("woff2"),
+    url(../fonts/Inter/Inter-Bold.woff) format("woff"),
+    url(../fonts/Inter/Inter-Bold.woff2) format("woff2");
+  font-family: "Inter";
+}
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+}
