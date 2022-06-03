@@ -1,8 +1,3 @@
-@import url(./_arzamas/resources__link_type_arzamas.css);
-@import url(./_n1/resources__link_type_n1.css);
-@import url(./_strelka/resources__link_type_strelka.css);
-@import url(./_polka/resources__link_type_polka.css);
-
 .resources__link {
   background-position: center;
   background-repeat: no-repeat;
